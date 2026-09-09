@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RetoFinal_Ruta3</string>
+    <string name="FullName">Encarna Balsera Quintana</string>
+    <string name="Title">Informática</string>
+    <string name="telefono">+31 645 789 639</string>
+    <string name="email">ebalseraq01@educarex.es</string>
+    <string name="home_direccion">Avda. Alonso Martín, 12 Don Benito</string>
+</resources>
